@@ -48,4 +48,4 @@ jobs:
           to: saravananduraivenkat@gmail.com
           from: GitHub Actions
 
-          html_body: target/surefire-reports/emailable-report.html
+          body: target/surefire-reports/emailable-report.html
